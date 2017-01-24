@@ -9,7 +9,6 @@ coverage
 !karma.conf.js
 !karma-test-shim.js
 *.map
-*.d.ts
 !make.js
 !bundles/*.js
 
@@ -28,5 +27,4 @@ Desktop.ini
 **/.DS_Store
 .DS_Store
 
-*.metadata.json
 /aot
